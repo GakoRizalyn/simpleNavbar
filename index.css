@@ -1,0 +1,28 @@
+ .parent{
+    display: flex;
+    background-color: gray;
+    padding: 0 20px;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    color: white;
+    align-items: center;
+ }
+
+ .papa{
+    border-radius: 20px;
+ }
+
+ .logo{
+    color: lightblue;
+    text-transform: uppercase;
+ }
+
+ button {
+    padding: 5px 20px;
+ }
